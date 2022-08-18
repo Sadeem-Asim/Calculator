@@ -1,0 +1,11 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "compile:sass": "node-sass calc.scss calc.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
